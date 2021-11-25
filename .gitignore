@@ -1,5 +1,7 @@
 .vs/
-bin/
 obj/
 *.suo
 !*.exe
+*.config
+*.pdb
+
